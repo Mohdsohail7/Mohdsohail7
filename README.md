@@ -9,11 +9,10 @@
 ---
 
 ## 🔗 Connect with me
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/mohdsohail7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-    <a href="https://linkedin.com/in/mohdsohail7" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" /></a>
   <a href="https://github.com/mohdsohail7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
@@ -82,7 +81,7 @@
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
   </a>
   <a href="https://www.npmjs.com/package/supertest" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/54189324/168601971-9b2d8a32-dccf-4a62-a771-067eca11e5cf.png" alt="Supertest" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/supertest-logo.png" alt="Supertest" width="40" height="40"/>
 </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
